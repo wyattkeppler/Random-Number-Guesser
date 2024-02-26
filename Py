@@ -1,0 +1,16 @@
+guess = (int)(input("Type your guess here:))
+
+Count = 0
+
+while
+  if guess < randint:
+    print "Higher"
+  elif guess > randint:
+    print "Lower"
+  else
+    print "Bingo!"
+  count = count + 1
+  break
+
+print "You took " + "count" + " tries!"
+  
